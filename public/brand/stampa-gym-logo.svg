@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" fill="none">
+  <!-- Logo Stampa Gym · fondo transparente -->
+  <g stroke="#FFF200" stroke-width="2.4" stroke-linejoin="round">
+    <path d="M58 6 H296 V12 H58 Z"/>
+    <text x="150" y="52" text-anchor="middle" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="46" letter-spacing="2" textLength="260" lengthAdjust="spacingAndGlyphs" fill="none">STAMPA</text>
+    <text x="196" y="78" text-anchor="middle" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="26" letter-spacing="4" textLength="90" lengthAdjust="spacingAndGlyphs" fill="none">GYM</text>
+    <path d="M6 86 H296 V93 H6 Z"/>
+  </g>
+</svg>
